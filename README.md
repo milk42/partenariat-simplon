@@ -14,7 +14,7 @@ Extension Wordpress pour ajouter une phrase.
 ### Utilisation :
 
 Dans chaque articles ou pages ou vous souhaitez insérer mon extension,
-Veuillez écrire [simplon] (avec les crochets)
+Veuillez écrire [simplon2] (avec les crochets)
 
 ### Ressources :
 #### Déclaration du plugin :
