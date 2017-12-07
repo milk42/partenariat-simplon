@@ -3,15 +3,18 @@
 
 ### Description :
 
-...
+Extension Wordpress pour ajouter une phrase.
 
 ### Installation :
 
-...
-
+=> Aller dans "Extensions"
+=> Ajouter
+=> Rechercher Plugin-laetitia
+=> Activer
 ### Utilisation :
 
-...
+Dans chaque articles ou pages ou vous souhaitez insérer mon extension,
+Veuillez écrire [simplon] (avec les crochets)
 
 ### Ressources :
 #### Déclaration du plugin :
