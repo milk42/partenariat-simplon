@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name: Zero plugin
-Plugin URI: http://zero-plugin.com
+Plugin Name: simplon_extension
+Plugin URI: https://github.com/milk42/partenariat-simplon
 Description: Un plugin d'introduction pour le développement sous WordPress
-Version: 0.1
+Version: 1.0
 Author: Laetitia
-Author URI: http://7715460bf2c140cd84058813a164cc41.yatu.ws
-License: LP2
+Author URI: https://github.com/milk42
+License: open source
 */
 
 function shortCodePlugin() {
-	return '<p>La publication de cet article est possible grâce à mon super partenaire <a href="https://www.simplon.co">simplon.co</a>- une entreprise de
+	return '<p>La publication de cet article est possible grâce à mon super partenaire <a href="https://www.simplon.co">simplon.co</a> une entreprise de
 l’économie sociale et solidaire et un réseau de « fabriques » (écoles) qui propose
 des formations GRATUITES pour devenir développeur web.</p>';
 }
